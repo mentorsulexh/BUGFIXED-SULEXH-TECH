@@ -37,7 +37,7 @@ cmd({
                 from,
                 { 
                     image: { url: imageUrl },
-                    caption: `📷 Result for: ${query}\n> ©𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃 `
+                    caption: `📷 Result for: ${query}\n> ©𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇 `
                 },
                 { quoted: mek }
             );
