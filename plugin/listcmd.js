@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '12036330267721743@newsletter',
-                        newsletterName: 'ℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊-𝕏𝕄𝔻🥰🦄',
+                        newsletterName: '𝔹𝕌𝔾𝔽𝕀𝕏𝔼𝔻-𝕊𝕌𝕃𝔼𝕏ℍ-𝕋𝔼ℂℍ🥰🦄',
                         serverMessageId: 143
                     }
                 }
