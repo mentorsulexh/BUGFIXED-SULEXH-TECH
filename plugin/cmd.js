@@ -43,7 +43,7 @@ pσwєrєd вч *𝔟𝔲𝔤𝔣𝔦𝔵𝔢𝔡 𝔰𝔲𝔩𝔢𝔵𝔥 𝔱�
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/zh3QjTp4/lordcasey.jpg` },  // Image URL
+            image: { url: `https://photos.app.goo.gl/yUNzkKag8oNKcrWB6/bugfixed.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
