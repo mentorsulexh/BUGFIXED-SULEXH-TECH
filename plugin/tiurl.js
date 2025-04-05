@@ -70,7 +70,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '『 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃 𝐒𝐇𝐎𝐑𝐓 𝐔𝐑𝐋 』',
+                    newsletterName: '『 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 𝐓𝐄𝐂𝐇 𝐒𝐇𝐎𝐑𝐓 𝐔𝐑𝐋 』',
                     serverMessageId: 143
                 }
             }
