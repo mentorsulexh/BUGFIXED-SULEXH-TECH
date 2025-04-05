@@ -59,7 +59,7 @@ cmd({
       + `📌 *Reply with the number to download in your choice.*`;
 
     const sentMsg = await conn.sendMessage(from, {
-      image: { url: ytData.thumbnail || "https://i.ibb.co/TBpSgZjn/lordcasey.jpg" },
+      image: { url: ytData.thumbnail || "https://photos.app.goo.gl/yUNzkKag8oNKcrWB6/bugfixed.jpg" },
       caption: caption,
       contextInfo: {
         mentionedJid: [m.sender],
@@ -67,7 +67,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363302677217436@newsletter",
-          newsletterName: "CASEYRHODES XMD",
+          newsletterName: "BUGFIXED SULEXH",
           serverMessageId: 143
         }
       }
