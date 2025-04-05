@@ -1,12 +1,12 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "BUGFIXED-SULEXH-TECH",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
-    "stop": "pm2 stop CASEYRHODES-XMD",
-    "restart": "pm2 restart CASEYRHODES-XMD"
+    "stop": "pm2 stop BUGFIXED-SULEXH-TECH",
+    "restart": "pm2 restart BUGFIXED-SULEXH-TECH"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
