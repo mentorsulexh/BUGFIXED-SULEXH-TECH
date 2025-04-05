@@ -37,7 +37,7 @@ cmd({
   try {
     if (!q) return reply('Please provide a URL to shorten.');
 
-    await reply('> *CASEYRHODES-XMD is Processing...*');
+    await reply('> *BUGFIXED-SULEXH-TECH is Processing...*');
 
     let apiUrl = '';
     if (command === 'tiny' || command === 'tinyurl') {
@@ -51,7 +51,7 @@ cmd({
     const response = await fetchJson(apiUrl);
     const result = response.result;
 
-    const caption = ` \`CASEYRHODES XMD URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ caseyrhodes`;
+    const caption = ` \`BUGFIXED SULEXH TECH URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ bugfixed`;
 
    /* await conn.sendMessage(m.chat, { text: caption }, { quoted: m });
   } catch (error) {
