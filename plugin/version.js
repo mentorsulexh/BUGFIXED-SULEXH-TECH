@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/caseyweb/CASEYRHODES-XMD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/mentorsulexh/BUGFIXED-SULEXH-TECH/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/caseyweb/CASEYRHODES-XMD';
+    const githubRepo = 'https://github.com/mentorsulexh/BUGFIXED-SULEXH-TECH';
 
     // Check update status
-    let updateMessage = `*✅ ʏᴏᴜʀ ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ ʙᴏᴛ ɪs ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ!*`;
+    let updateMessage = `*✅ ʏᴏᴜʀ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇 ʙᴏᴛ ɪs ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ!*`;
     if (localVersion !== latestVersion) {
-      updateMessage = `*😵‍💫 ʏᴏᴜʀ ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ ʙᴏᴛ ɪs ᴏᴜᴛᴅᴀᴛᴇᴅ!*
+      updateMessage = `*😵‍💫 ʏᴏᴜʀ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇 ʙᴏᴛ ɪs ᴏᴜᴛᴅᴀᴛᴇᴅ!*
 🔹 *ᴄᴜʀʀᴇɴᴛ ᴠᴇʀsɪᴏɴ:* ${localVersion}
 🔹 *ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ:* ${latestVersion}
 
@@ -66,7 +66,7 @@ cmd({
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `🤖 *ʙᴏᴛ ɴᴀᴍᴇ:* ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ\n🔖 *ᴄᴜʀʀᴇɴᴛ ᴠᴇʀsɪᴏɴ:* ${localVersion}\n📢 *ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ:* ${latestVersion}\n📂 *ᴛᴏᴛᴀʟ ᴘʟᴜɢɪɴs:* ${pluginCount}\n🔢 *ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅs:* ${totalCommands}\n\n` +
+      `🤖 *ʙᴏᴛ ɴᴀᴍᴇ:* 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇\n🔖 *ᴄᴜʀʀᴇɴᴛ ᴠᴇʀsɪᴏɴ:* ${localVersion}\n📢 *ʟᴀᴛᴇsᴛ ᴠᴇʀsɪᴏɴ:* ${latestVersion}\n📂 *ᴛᴏᴛᴀʟ ᴘʟᴜɢɪɴs:* ${pluginCount}\n🔢 *ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅs:* ${totalCommands}\n\n` +
       `💾 *sʏsᴛᴇᴍ ɪɴғᴏ:*\n⏰ *ᴜᴘᴛɪᴍᴇ:* ${uptime}\n📟 *ʀᴀᴍ ᴜsᴀɢᴇ:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *ʜᴏsᴛ ɴᴀᴍᴇ:* ${hostName}\n📅 *ʟᴀsᴛ ᴜᴘᴅᴀᴛᴇ:* ${lastUpdate}\n\n` +
       `📑 *ᴄʜᴀɴɢᴇʟᴏɢ:*\n${latestChangelog}\n\n` +
       `⭐ *ɢɪᴛʜᴜʙ ʀᴇᴘᴏ:* ${githubRepo}\n\n${updateMessage}\n\n👋🏻 *ʜᴇʏ! ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ ғᴏʀᴋ & sᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ!*`;
@@ -81,7 +81,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '+120363302677217436@newsletter',
-          newsletterName: '☇ ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ ⃪🤖͎᪳᪳𝆺𝅥',
+          newsletterName: '☇ 𝐁𝐔G𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇 ⃪🤖͎᪳᪳𝆺𝅥',
           serverMessageId: 143
         }
       }
