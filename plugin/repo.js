@@ -16,16 +16,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *CASEYWEB*
+*|* *MENTORSULEXH*
 
-> *CASEYWEB REPO:*
-*|* https://github.com/caseyweb/CASEYRHODES XMD
+> *MENTORSULEXH REPO:*
+*|* https://github.com/mentorsulexh/BUGFIXED-SULEXH-TECH
 
 > *SUPPORT GROUP:*
-*|* https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h
+*|* https://whatsapp.com/channel/0029Vb9xr0k30LKLQjmiAa3Q
 *╰──────────────●●►*
 
-> *CREATED BY CASEYRHODES TECH*
+> *CREATED BY BUGFIXED SULEXH TECH*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -70,7 +70,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/caseyweb/CASEYRHODES-XMD';
+    const githubRepoURL = 'https://github.com/mentorsulexh/BUGFIXED-SULEXH-TECH';
 
     try {
         // Extract username and repo name from the URL
@@ -86,15 +86,15 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
+        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
 
-> *sɪᴍᴘʟᴇ, ɪᴄʏ, ᴄᴏʟᴅ  & ʀɪᴄʜ ʟᴏᴀᴅᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs, ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.*❄️
+> *sɪᴍᴘʟᴇ, ɪᴄʏ, ᴄᴏʟᴅ  & ʀɪᴄʜ ʟᴏᴀᴅᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs, 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 𝐓𝐄𝐂𝐇 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.*❄️
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃🫶* 
+*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃-𝐒𝐔𝐋𝐄𝐗𝐇-𝐓𝐄𝐂𝐇* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
-https://github.com/caseyweb/CASEYRHODES-XMD
+https://github.com/mentorsulexh/BUGFIXED-SULEXH-TECH
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
@@ -112,7 +112,7 @@ ${readMore}
 \`DESCRIPTION:\`📃
 > ${repoData.description || 'No description'}\n
 ──────────────────
-\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ* 🎐`;
+\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 𝐓E𝐂𝐇* 🎐`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
@@ -124,7 +124,7 @@ ${readMore}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '☇ cαsєчrhσdєs suppσrt  ⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterName: '☇ BUGFIXED sulexh suppσrt  ⃪🤖͎᪳᪳𝆺𝅥',
                     serverMessageId: 143
                 }
             }
@@ -141,7 +141,7 @@ ${readMore}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '☇ cαsєчrhσdєs suppσrt⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterName: '☇ BUGFIXED sulexh suppσrt⃪🤖͎᪳᪳𝆺𝅥',
                     serverMessageId: 143
                 }
             }
