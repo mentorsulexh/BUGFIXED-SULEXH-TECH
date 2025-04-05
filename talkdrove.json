@@ -1,15 +1,15 @@
 
 {
-    "bot-name": "CASEYRHODES XMD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
+    "bot-name": "BUGFIXED SULEXH TECH",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Bugfixed",
     "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://pairs-rzev.onrender.com/",
-    "owner-verification": "caseywebsthedonn25@gmail.com",
+    "owner-verification": "mentorsulexh@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with Caseyrhodes~  or get session id from here,  https://pairs-rzev.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with Bugfixed~  or get session id from here,  https://pairs-rzev.onrender.com/",
         "value":"",
         "required": true
         
@@ -90,14 +90,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254719646303"
+      "value": "254768161116"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "BUGFIXED-SULEXH-TECH"
 
       }, 
 
