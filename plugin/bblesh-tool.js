@@ -1,12 +1,12 @@
-// code by ⿻ ⌜CASEYRHODES ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜BUGFIXED SULEXH ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
 const { cmd } = require('../command');
 
 cmd({
-  pattern: "sss",
-  alias: ["ssweb"],
+  pattern: "bbb",
+  alias: ["bblesh"],
   react: "💫",
   desc: "Download screenshot of a given link.",
   category: "other",
@@ -31,14 +31,14 @@ async (conn, mek, m, {
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By CASEYRHODES*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By BUGFIXED SULEXH*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '12036330267721743@newsletter',
-          newsletterName: "CASEYRHODES-WEB",
+          newsletterName: "BUGFIXED-LESH",
           serverMessageId: 143,
         },
       },
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ CASEYRHODES ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ BUGFIXED SULEXH ⌟⿻⃮͛🇵🇰𖤐
