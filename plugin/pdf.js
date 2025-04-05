@@ -12,7 +12,7 @@ cmd({
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q) return reply("Please provide the text you want to convert to PDF. *Eg* `.topdf` *Caseyrhodes kenya🇰🇪*");
+        if (!q) return reply("Please provide the text you want to convert to PDF. *Eg* `.topdf` *Bugfixed kenya🇰🇪*");
 
         // Create a new PDF document
         const doc = new PDFDocument();
@@ -25,11 +25,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 document: pdfData,
                 mimetype: 'application/pdf',
-                fileName: 'CASEYRHODES XMD.pdf',
+                fileName: 'BUGFIXED SULEXH TECH.pdf',
                 caption: `
 *📄 PDF created successully!*
 
-> © Cʀᴇᴀᴛᴇᴅ Bʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ`
+> © Cʀᴇᴀᴛᴇᴅ Bʏ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 𝐓𝐄𝐂𝐇`
             }, { quoted: mek });
         });
 
