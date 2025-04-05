@@ -8,9 +8,9 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • CASEYRHODES 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • BUGFIXED 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
-    [ • CASEYRHODES: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
+    [ • BUGFIXED: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
