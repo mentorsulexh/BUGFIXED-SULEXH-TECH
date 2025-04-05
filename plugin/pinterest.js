@@ -27,13 +27,13 @@ cmd({
         const media = response.data.BK9;
         
         // Prepare the caption
-        const desc = `*CASEYRHODES XMD*
+        const desc = `*BUGFIXED SULEXH TECH*
 
 *PINS DOWNLOADER*
 ╭━━❐━⪼
 ┇๏ *Owner* - ${response.data.owner}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ ♡*`;
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𝐁𝐮𝗚𝗙𝗶𝗫𝗲𝗱 𝗦𝗨L𝐄𝐗𝐇  𝐓E𝐂𝐇 *`;
 
         // Check if there are any media items
         if (media.length > 0) {
