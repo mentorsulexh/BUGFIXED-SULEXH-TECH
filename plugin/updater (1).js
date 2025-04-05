@@ -26,10 +26,10 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your CASEYRHODES-XMD bot is already up-to-date!");
+            return reply("✅ Your BUGFIXED-SULEXH-TECH bot is already up-to-date!");
         }
 
-        await reply("🚀 Updating CASEYRHODES-XMD Bot...");
+        await reply("🚀 Updating BUGFIXED-SULEXH-TECH Bot...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "CASEYRHODES-XMD-main");
+        const sourcePath = path.join(extractPath, "BUGFIXED-SULEXH-TECH-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
