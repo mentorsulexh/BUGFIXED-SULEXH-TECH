@@ -1,7 +1,7 @@
 {
   "name": "BUGFIXED-SULEXH-TECH",
   "description": "Javascript WhatsApp bot made by CASEYRHODES.",
-  "keywords": ["CASEYRHODES-XMD"],
+  "keywords": ["BUGFIXED-SULEXH-TECH"],
   
   
   "logo": "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> BUGFIXED-SULEXH-TECH IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -82,25 +82,25 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ🚀🔥*"
+      "value": "*🎉👀 sᴇᴇɴ ʙʏ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 𝐓𝐄𝐂𝐇🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄᴀsᴇʏʀʜᴏᴅᴇs 🫅"
+      "value": "𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇 🫅"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "254768161116"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦"
+      "value": "✦ 𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇✦"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦*"
+      "value": "*© ✦𝐁𝐔𝐆𝐅𝐈𝐗𝐄𝐃 𝐒𝐔𝐋𝐄𝐗𝐇✦*"
     },
 
       "DELETE_LINKS": {
