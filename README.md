@@ -49,24 +49,7 @@
 
 ### 1. Fork This Repository
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mentorsulexh/BUGFIXED-SULEXH-TECH/fork"><img title="BUGFIXED-SULEXH-TECH" src="https://img.shields.io/badge/FORK-BUGFIXED%20SULEXH%20TECH-h?color=purple&style=for-the-badge&logo=github"></a>
-
-### 2. GET SESSION ID SERVER 1
-
-You will need a session ID to run BUGFIXED-SULEXH-TECH. Click the button below to obtain your session ID:
-
-<a href='https://sul.vercel.app/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-</a>
-<br>
-
-
-### 2. GET SESSION ID SERVER 2
-
-<a href='https://sulhub-7kak.vercel.app' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
 
