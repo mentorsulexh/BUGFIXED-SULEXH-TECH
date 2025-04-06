@@ -62,7 +62,7 @@ You will need a session ID to run BUGFIXED-SULEXH-TECH. Click the button below t
 </a>
 <br>
 
-https://bugfixed-sulexh-tech.vercel.app/
+
 ### 2. GET SESSION ID SERVER 2
 
 <a href='https://Bugfixedhub-7kak.vercel.app' target="_blank">
