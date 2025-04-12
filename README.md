@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<a href="https://github.com/mentorsulexh"><img title="Author" src="https://photos.app.goo.gl/yUNzkKag8oNKcrWB6/sulexh-md.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mentorsulexh"><img title="Author" src="https://files.catbox.moe/uhmej9.png?style=for-the-badge&logo=github"></a>
 
 
 
